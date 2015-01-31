@@ -17,3 +17,12 @@ cd change directory
 | less - use less command to make it readable
 > - output of command input to file
 >> - output of command addes to input file
+
+git init
+git add - add file
+git status
+git commit -m [message]
+  ID, message, timestamp, diff, signature
+git log
+git ll - long form
+git la - all
