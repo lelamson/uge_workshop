@@ -1,0 +1,2 @@
+git branch - creates new branch
+git checkout - change to active branch
