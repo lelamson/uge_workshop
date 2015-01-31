@@ -1,0 +1,19 @@
+ls
+ -t list by moditifcation date
+ -l list by long form
+ -lt list by -t & -l
+ -r reverse ordering
+ -h human readable size
+ll
+  long form and file size
+la
+  display all
+
+\ is the Escape command to negate space
+cd change directory
+  .. go up dir
+  . current dir
+
+| less - use less command to make it readable
+> - output of command input to file
+>> - output of command addes to input file
